@@ -1,6 +1,6 @@
-📈 Task 2: Stock Portfolio Tracker
+# 📈 Task 2: Stock Portfolio Tracker
 
-📌 Overview
+## 📌 Overview
 
 This project is a console-based Stock Portfolio Management program created using Python.
 It helps users calculate the total value of their stock investments by entering stock symbols and the number of shares they own.
@@ -9,7 +9,7 @@ The program uses predefined stock prices and performs calculations automatically
 
 This task is helpful for beginners who want to understand how Python can be used for basic financial calculations and data handling.
 
-🎯 Goal
+## 🎯 Goal
 
 The main objective of this task is to create a simple system that:
 
@@ -23,7 +23,7 @@ Calculates the total investment value
 
 The focus is on building logical thinking and improving understanding of Python fundamentals.
 
-🛠 Features
+## 🛠 Features
 
 Stores stock prices inside the program
 
@@ -39,7 +39,7 @@ Handles incorrect stock names safely
 
 Easy-to-read console output
 
-📚 Concepts Used 
+## 📚 Concepts Used 
 
 Dictionary Data Structure:
 Used to store stock symbols and their prices in key-value format (Example: "AAPL": 180).
@@ -59,7 +59,7 @@ Multiplies price × quantity to find total value.
 File Writing (Optional):
 Saves portfolio details into .txt or .csv files for record keeping.
 
-🧾 Example Stock Prices (Hardcoded in Program)
+## 🧾 Example Stock Prices (Hardcoded in Program)
 
 {
  "AAPL": 180,
@@ -69,7 +69,7 @@ Saves portfolio details into .txt or .csv files for record keeping.
  "AMZN": 135
 }
 
-▶️ How to Run
+## ▶️ How to Run
 
 Make sure Python 3 is installed on your computer.
 
@@ -85,7 +85,7 @@ CodeAlpha_stock_portfolio_tracker.py
 
 Follow the instructions shown on the screen to enter stock details.
 
-💾 Output Files
+## 💾 Output Files
 
 If the save option is selected, the program can create:
 

@@ -1,12 +1,12 @@
-**CodeAlpha\_HangmanGame**
+# CodeAlpha_HangmanGame
 
 A simple text-based Hangman game developed in Python as part of Task 1 for the CodeAlpha Python Programming Internship. The game uses basic console input/output and limits incorrect guesses to six.
 
-**Hangman Game - CodeAlpha Python Internship**
+# Hangman Game - CodeAlpha Python Internship
 
-**Task 1: Hangman Game**
+## Task 1: Hangman Game
 
-**Description**
+### Description
 
 This project is a console-based Hangman game built using Python as part of the internship program.
 
@@ -14,7 +14,7 @@ The objective of the game is for the user to guess a randomly selected word by e
 
 The game chooses a word from a small predefined collection and allows the player a maximum of six incorrect guesses. The program continues running until the word is fully guessed or the attempts are exhausted.
 
-**Features**
+### Features
 
 * Selection of a word randomly from a predefined list
 
@@ -28,7 +28,7 @@ The game chooses a word from a small predefined collection and allows the player
 
 * Easy-to-understand and structured logic
 
-**Concepts Used**
+### Concepts Used
 
 This task demonstrates the use of:
 
@@ -44,7 +44,7 @@ This task demonstrates the use of:
 
 * Lists to track guessed characters
 
-**How to Run**
+### How to Run
 
 1. Type or open hangmangame.py in VS Code, \& IDLE and run the code.
 
@@ -52,10 +52,11 @@ This task demonstrates the use of:
 
 3. Follow the on-screen instructions to play the game.
 
-**Internship**
+### Internship
 
 This project has been developed and completed as Task 1 under the CodeAlpha Python Programming Internship.
 
 The project demonstrates understanding of control structures, loops, and basic game logic in Python.
+
 
 
